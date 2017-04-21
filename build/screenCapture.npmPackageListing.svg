@@ -1,0 +1,117 @@
+<svg height="1822" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1822" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 17:02:46 +0000   487295 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 17:02:46 +0000    26348 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 17:02:46 +0000     1161 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 17:02:46 +0000     2446 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 17:02:46 +0000    11325 bytes  LICENSE</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 17:02:46 +0000     6013 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 17:02:46 +0000     2220 bytes  UPGRADING.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 17:02:46 +0000     3143 bytes  benchmark/api-key-encryption.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 17:02:46 +0000     4816 bytes  collection_each_example.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 17:02:46 +0000      193 bytes  docs-dev.sh</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 17:02:46 +0000    39275 bytes  lib/Client.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 17:02:46 +0000      290 bytes  lib/authc/ApiKey.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 17:02:46 +0000      694 bytes  lib/authc/ApiKeyEncryptedOptions.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 17:02:46 +0000      806 bytes  lib/authc/ApiKeyLoader.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 17:02:46 +0000     1262 bytes  lib/authc/AssertionAuthenticationResult.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 17:02:46 +0000     1712 bytes  lib/authc/AuthRequestParser.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 17:02:46 +0000     1505 bytes  lib/authc/BasicApiAuthenticator.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 17:02:46 +0000      572 bytes  lib/authc/BasicRequestAuthenticator.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 17:02:46 +0000      454 bytes  lib/authc/ClientCredentialGrantAuthenticator.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 17:02:46 +0000     4257 bytes  lib/authc/OAuthBasicExchangeAuthenticator.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 17:02:46 +0000     3671 bytes  lib/authc/OauthAccessTokenAuthenticator.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 17:02:46 +0000      403 bytes  lib/authc/RequestAuthenticator.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 17:02:46 +0000     3741 bytes  lib/authc/Sauthc1RequestAuthenticator.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 17:02:46 +0000     3383 bytes  lib/authc/StormpathAssertionAuthenticator.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 17:02:46 +0000     1621 bytes  lib/authc/index.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 17:02:46 +0000     2232 bytes  lib/cache/Cache.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 17:02:46 +0000     1964 bytes  lib/cache/CacheEntry.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 17:02:46 +0000     4468 bytes  lib/cache/CacheHandler.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 17:02:46 +0000      707 bytes  lib/cache/CacheManager.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 17:02:46 +0000      767 bytes  lib/cache/CacheStats.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 17:02:46 +0000      353 bytes  lib/cache/DisabledCache.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 17:02:46 +0000     1677 bytes  lib/cache/MemcachedStore.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 17:02:46 +0000      508 bytes  lib/cache/MemoryStore.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 17:02:46 +0000     1753 bytes  lib/cache/RedisStore.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 17:02:46 +0000      317 bytes  lib/cache/index.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 17:02:46 +0000      582 bytes  lib/config.yml</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 17:02:46 +0000     1893 bytes  lib/configLoader.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 17:02:46 +0000    16313 bytes  lib/ds/DataStore.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 17:02:46 +0000      479 bytes  lib/ds/NonceStore.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 17:02:46 +0000     3661 bytes  lib/ds/RequestExecutor.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 17:02:46 +0000      405 bytes  lib/error/ApiAuthRequestError.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 17:02:46 +0000      843 bytes  lib/error/ResourceError.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 17:02:46 +0000      586 bytes  lib/error/invalid-href.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 17:02:46 +0000      342 bytes  lib/error/messages.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-21 17:02:46 +0000       56 bytes  lib/index.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-21 17:02:46 +0000     5114 bytes  lib/jwt/jwt-authentication-result.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-21 17:02:46 +0000     5991 bytes  lib/jwt/jwt-authenticator.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-21 17:02:46 +0000     3135 bytes  lib/oauth/authenticator.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-21 17:02:46 +0000     6535 bytes  lib/oauth/client-credentials.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-21 17:02:46 +0000     1582 bytes  lib/oauth/id-site-grant.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-21 17:02:46 +0000     5044 bytes  lib/oauth/password-grant.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-21 17:02:46 +0000     4222 bytes  lib/oauth/refresh-grant.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-21 17:02:46 +0000     6020 bytes  lib/oauth/scope-factory-authenticator.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-21 17:02:46 +0000     3107 bytes  lib/oauth/stormpath-access-token-authentication-\</tspan>
+<tspan x="10" y="890">result.js</tspan>
+<tspan x="10" y="906"> 54.  2017-04-21 17:02:46 +0000     6634 bytes  lib/oauth/stormpath-access-token-authenticator.j\</tspan>
+<tspan x="10" y="922">s</tspan>
+<tspan x="10" y="938"> 55.  2017-04-21 17:02:46 +0000     5926 bytes  lib/oauth/stormpath-social.js</tspan>
+<tspan x="10" y="954"> 56.  2017-04-21 17:02:46 +0000     5112 bytes  lib/oauth/stormpath-token.js</tspan>
+<tspan x="10" y="970"> 57.  2017-04-21 17:02:46 +0000     2595 bytes  lib/proxy/ObjectCallProxy.js</tspan>
+<tspan x="10" y="986"> 58.  2017-04-21 17:02:46 +0000     1767 bytes  lib/resource/AccessToken.js</tspan>
+<tspan x="10" y="1002"> 59.  2017-04-21 17:02:46 +0000    18759 bytes  lib/resource/Account.js</tspan>
+<tspan x="10" y="1018"> 60.  2017-04-21 17:02:46 +0000     1559 bytes  lib/resource/AccountCreationPolicy.js</tspan>
+<tspan x="10" y="1034"> 61.  2017-04-21 17:02:46 +0000     2560 bytes  lib/resource/AccountLink.js</tspan>
+<tspan x="10" y="1050"> 62.  2017-04-21 17:02:46 +0000     1947 bytes  lib/resource/AccountLinkingPolicy.js</tspan>
+<tspan x="10" y="1066"> 63.  2017-04-21 17:02:46 +0000     4062 bytes  lib/resource/AccountStoreMapping.js</tspan>
+<tspan x="10" y="1082"> 64.  2017-04-21 17:02:46 +0000     3697 bytes  lib/resource/ApiKey.js</tspan>
+<tspan x="10" y="1098"> 65.  2017-04-21 17:02:46 +0000    55775 bytes  lib/resource/Application.js</tspan>
+<tspan x="10" y="1114"> 66.  2017-04-21 17:02:46 +0000     2385 bytes  lib/resource/ApplicationAccountStoreMapping.js</tspan>
+<tspan x="10" y="1130"> 67.  2017-04-21 17:02:46 +0000     5401 bytes  lib/resource/AuthenticationResult.js</tspan>
+<tspan x="10" y="1146"> 68.  2017-04-21 17:02:46 +0000     4246 bytes  lib/resource/Challenge.js</tspan>
+<tspan x="10" y="1162"> 69.  2017-04-21 17:02:46 +0000    33574 bytes  lib/resource/CollectionResource.js</tspan>
+<tspan x="10" y="1178"> 70.  2017-04-21 17:02:46 +0000     5167 bytes  lib/resource/CustomData.js</tspan>
+<tspan x="10" y="1194"> 71.  2017-04-21 17:02:46 +0000    11474 bytes  lib/resource/Directory.js</tspan>
+<tspan x="10" y="1210"> 72.  2017-04-21 17:02:46 +0000     3074 bytes  lib/resource/DirectoryChildResource.js</tspan>
+<tspan x="10" y="1226"> 73.  2017-04-21 17:02:46 +0000     3614 bytes  lib/resource/Factor.js</tspan>
+<tspan x="10" y="1242"> 74.  2017-04-21 17:02:46 +0000     2079 bytes  lib/resource/FactorInstantiator.js</tspan>
+<tspan x="10" y="1258"> 75.  2017-04-21 17:02:46 +0000      763 bytes  lib/resource/Field.js</tspan>
+<tspan x="10" y="1274"> 76.  2017-04-21 17:02:46 +0000     2263 bytes  lib/resource/GoogleAuthenticatorFactor.js</tspan>
+<tspan x="10" y="1290"> 77.  2017-04-21 17:02:46 +0000     3920 bytes  lib/resource/Group.js</tspan>
+<tspan x="10" y="1306"> 78.  2017-04-21 17:02:46 +0000     2152 bytes  lib/resource/GroupMembership.js</tspan>
+<tspan x="10" y="1322"> 79.  2017-04-21 17:02:46 +0000      887 bytes  lib/resource/IdSiteModel.js</tspan>
+<tspan x="10" y="1338"> 80.  2017-04-21 17:02:46 +0000     3952 bytes  lib/resource/InstanceResource.js</tspan>
+<tspan x="10" y="1354"> 81.  2017-04-21 17:02:46 +0000     1308 bytes  lib/resource/OAuthPolicy.js</tspan>
+<tspan x="10" y="1370"> 82.  2017-04-21 17:02:46 +0000    22547 bytes  lib/resource/Organization.js</tspan>
+<tspan x="10" y="1386"> 83.  2017-04-21 17:02:46 +0000     2148 bytes  lib/resource/OrganizationAccountStoreMapping.js</tspan>
+<tspan x="10" y="1402"> 84.  2017-04-21 17:02:46 +0000     1454 bytes  lib/resource/PasswordPolicy.js</tspan>
+<tspan x="10" y="1418"> 85.  2017-04-21 17:02:46 +0000     1209 bytes  lib/resource/PasswordResetToken.js</tspan>
+<tspan x="10" y="1434"> 86.  2017-04-21 17:02:46 +0000     1490 bytes  lib/resource/Phone.js</tspan>
+<tspan x="10" y="1450"> 87.  2017-04-21 17:02:46 +0000      829 bytes  lib/resource/Provider.js</tspan>
+<tspan x="10" y="1466"> 88.  2017-04-21 17:02:46 +0000      868 bytes  lib/resource/ProviderData.js</tspan>
+<tspan x="10" y="1482"> 89.  2017-04-21 17:02:46 +0000     1410 bytes  lib/resource/RefreshToken.js</tspan>
+<tspan x="10" y="1498"> 90.  2017-04-21 17:02:46 +0000      765 bytes  lib/resource/Resource.js</tspan>
+<tspan x="10" y="1514"> 91.  2017-04-21 17:02:46 +0000     3962 bytes  lib/resource/ResourceFactory.js</tspan>
+<tspan x="10" y="1530"> 92.  2017-04-21 17:02:46 +0000     1759 bytes  lib/resource/SamlAttributeStatementMappingRules.\</tspan>
+<tspan x="10" y="1546">js</tspan>
+<tspan x="10" y="1562"> 93.  2017-04-21 17:02:46 +0000     1949 bytes  lib/resource/SamlPolicy.js</tspan>
+<tspan x="10" y="1578"> 94.  2017-04-21 17:02:46 +0000     2843 bytes  lib/resource/SamlProvider.js</tspan>
+<tspan x="10" y="1594"> 95.  2017-04-21 17:02:46 +0000     1345 bytes  lib/resource/SamlServiceProvider.js</tspan>
+<tspan x="10" y="1610"> 96.  2017-04-21 17:02:46 +0000     1425 bytes  lib/resource/SamlServiceProviderMetadata.js</tspan>
+<tspan x="10" y="1626"> 97.  2017-04-21 17:02:46 +0000     1813 bytes  lib/resource/Schema.js</tspan>
+<tspan x="10" y="1642"> 98.  2017-04-21 17:02:46 +0000     3226 bytes  lib/resource/SmsFactor.js</tspan>
+<tspan x="10" y="1658"> 99.  2017-04-21 17:02:46 +0000      884 bytes  lib/resource/SmtpServer.js</tspan>
+<tspan x="10" y="1674">100.  2017-04-21 17:02:46 +0000      882 bytes  lib/resource/Strength.js</tspan>
+<tspan x="10" y="1690">101.  2017-04-21 17:02:46 +0000    13046 bytes  lib/resource/Tenant.js</tspan>
+<tspan x="10" y="1706">102.  2017-04-21 17:02:46 +0000      853 bytes  lib/resource/mixins/SaveableMixin.js</tspan>
+<tspan x="10" y="1722">103.  2017-04-21 17:02:46 +0000     3343 bytes  lib/saml/SamlIdpUrlBuilder.js</tspan>
+<tspan x="10" y="1738">104.  2017-04-21 17:02:46 +0000     1762 bytes  lib/stormpath.js</tspan>
+<tspan x="10" y="1754">105.  2017-04-21 17:02:46 +0000      449 bytes  lib/underscore.js</tspan>
+<tspan x="10" y="1770">106.  2017-04-21 17:02:46 +0000     6126 bytes  lib/utils.js</tspan>
+<tspan x="10" y="1786">107.  2017-04-21 17:02:46 +0000     4226 bytes  package.json</tspan>
+<tspan x="10" y="1802">108.  2017-04-21 17:02:46 +0000     6063 bytes  quickstart.js</tspan>
+</text>
+</svg>
